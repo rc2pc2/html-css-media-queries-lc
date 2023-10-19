@@ -53,7 +53,7 @@ div.d-flex img{
 }
 
 
-? minore uguale di 768px
+/* ? minore uguale di 768px */
 @media screen and (max-width: 768px){
 
     .container{
